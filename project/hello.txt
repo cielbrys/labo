@@ -2,4 +2,8 @@ hello ciel
 Hey mathieu
 Lets goo
 Having fun?
+<<<<<<< HEAD
 Waarom wil je dat?
+=======
+Ik wil meer bier drinken
+>>>>>>> 5e3a2e456444bf502cc505888511bef9b2fbf03d
